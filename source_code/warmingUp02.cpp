@@ -42,6 +42,12 @@ public:
       StudentGameMaster(string a = "", string b = "", string c = "") : Human(a, b, c) {};
       void show() { cout << "My name is " << name << "and I like to play fantasy make-believe" << endl; }
 };
+
+class ProGamer : public Human {
+public:
+    ProGamer(string in1 = "", string in2 = "", string in3 = "") : Human(in1, in2, in3) {};
+    void show() { cout << "My name is Alexander the Great and I'm the greatest of them all " << name << endl; }
+};
  
  *****************************
  */
@@ -88,6 +94,9 @@ int main() {
 
     StudentGameMaster Maria12("Maria", "1115202100177", "whatever");
     team.push_back(&Maria12);
+    
+    ProGamer AlexanderTheGreat("AlexanderTheGreat", "1115202000164", "The greatest of them all");
+    team.push_back(&AlexanderTheGreat);
 
      *****************************
      */
