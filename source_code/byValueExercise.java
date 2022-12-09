@@ -16,7 +16,7 @@ public class Main {
    // in order to change to increase
    // the value of num with a method call
    
-   x = increase(x);
+   num = increase(num);
    // <<<<<<<<<<  01  <<<<<<<<<<
    
    System.out.println(num);
