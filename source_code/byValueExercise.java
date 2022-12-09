@@ -4,7 +4,7 @@
 
 package aloni.main; // check that the package name is correct
 
-public class Main {
+public class byValueExercise {
  
    public static void main(String[] args){
 
