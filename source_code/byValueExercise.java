@@ -16,16 +16,7 @@ public class Main {
    // in order to change to increase
    // the value of num with a method call
    
-    
-    
-    
-
-    num = increase(num);    
    
-    
-    
-    
-    
    // <<<<<<<<<<  01  <<<<<<<<<<
    
    System.out.println(num);
@@ -34,11 +25,10 @@ public class Main {
    
    // >>>>>>>>>>>  02  >>>>>>>>>>>
    // you can change the method below
-   // in any way you want
-   static int increase(int x)
+   // in ay way you want
+   static void increase(int x)
     {
         x += 1;
-        return x;
     }
    // <<<<<<<<<<  02  <<<<<<<<<<   
    
