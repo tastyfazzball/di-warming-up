@@ -50,7 +50,7 @@ class  TreeProject{
     
     // <- put Di Elf #05
     
-    // <- put Di Elf #06
+    XmasTeam.add(new Elf("Dino"));
     
     // <- put Di Elf #07
     
