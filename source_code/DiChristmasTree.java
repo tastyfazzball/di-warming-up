@@ -40,8 +40,8 @@ class  TreeProject{
     XmasTeam.add(new Elf("Doni"));
     XmasTeam.add(new Elf("Dino"));
     
-    // <- put Di Elf #01
-    
+    // XmasTeam.add(new Elf("Unreal Kafritsas"));
+
     // <- put Di Elf #02
     
     // <- put Di Elf #03
@@ -116,4 +116,3 @@ class  TreeProject{
     }
   }
 }
-#
