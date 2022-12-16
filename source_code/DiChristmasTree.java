@@ -72,6 +72,7 @@ class  TreeProject{
     // <- put Di Elf #14
     
     // <- put Di Elf #15
+    XmasTeam.add(new Elf("GeorgeRG"));
     
     numberOfElves = XmasTeam.size();
     
