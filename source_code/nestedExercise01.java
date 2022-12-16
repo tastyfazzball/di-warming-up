@@ -45,7 +45,13 @@ class Main{
       
 
 // >>>>>>>>>>>>> 05 >>>>>>>>>>>>>        
-        
+    Xmas JasonObj = new Xmas(){
+        void speak(){
+            System.out.println("Κρεπες 😏");
+        }
+    };
+    JasonObj.speak();        
+
 // <<<<<<<<<<<<< 05 <<<<<<<<<<<<<
       
 
