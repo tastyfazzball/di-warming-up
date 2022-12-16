@@ -44,30 +44,27 @@ class  TreeProject{
     
     // <- put Di Elf #02
     
- XmasTeam.add(new Elf("Spiros"));
+    // <- put Di Elf #03
     
     // <- put Di Elf #04
     
     // <- put Di Elf #05
-    XmasTeam.add(new Elf("Jason"));
     
-    XmasTeam.add(new Elf("Alex"));
+    // <- put Di Elf #06
     
     // <- put Di Elf #07
     
     // <- put Di Elf #08
-    XmasTeam.add(new Elf("gpnb"));
     
     // <- put Di Elf #09
     
     // <- put Di Elf #10
     
     // <- put Di Elf #11
-       XmasTeam.add(new Elf("Χαριτίνη"));
     
     // <- put Di Elf #12
     
-    // <- put Di Elf #13
+    XmasTeam.add(new Elf("Pilotos"));// <- put Di Elf #13
     
     // <- put Di Elf #14
     
