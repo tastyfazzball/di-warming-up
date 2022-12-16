@@ -49,12 +49,14 @@ class  TreeProject{
     // <- put Di Elf #04
     
     // <- put Di Elf #05
+    XmasTeam.add(new Elf("Jason"));
     
-    // <- put Di Elf #06
+    XmasTeam.add(new Elf("Alex"));
     
     // <- put Di Elf #07
     
     // <- put Di Elf #08
+    XmasTeam.add(new Elf("gpnb"));
     
     // <- put Di Elf #09
     
