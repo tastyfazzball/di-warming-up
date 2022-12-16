@@ -32,8 +32,11 @@ class Main{
       
 
 // >>>>>>>>>>>>> 03 >>>>>>>>>>>>>        
-        
-// <<<<<<<<<<<<< 03 <<<<<<<<<<<<<    
+        Xmas Obj00 = new Xmas(){  
+            void speak(){System.out.println("go-to for ever!!");}  
+        };  
+        Obj00.speak();   
+// <<<<<<<<<<<<< 03 <<<<<<<<<<<<<           
       
 
 // >>>>>>>>>>>>> 04 >>>>>>>>>>>>>        
@@ -53,7 +56,10 @@ class Main{
       
 
 // >>>>>>>>>>>>> 06 >>>>>>>>>>>>>        
-        
+        Xmas Alex = new Xmas(){  
+            void speak(){System.out.println("Melomakarona for ever!!");}  
+        };  
+        Alex.speak();
 // <<<<<<<<<<<<< 06 <<<<<<<<<<<<<  
       
       
@@ -64,6 +70,11 @@ class Main{
 
 // >>>>>>>>>>>>> 08 >>>>>>>>>>>>>        
         
+        Xmas Objgp = new Xmas(){  
+            void speak(){System.out.println("hot tea");}  
+        };  
+        Objgp.speak(); 
+      
 // <<<<<<<<<<<<< 08 <<<<<<<<<<<<<
       
 
@@ -72,10 +83,10 @@ class Main{
 // <<<<<<<<<<<<< 09 <<<<<<<<<<<<<    
       
 
-// >>>>>>>>>>>>> 10 >>>>>>>>>>>>>        
-        
-// <<<<<<<<<<<<< 10 <<<<<<<<<<<<<       
-      
+Xmas Elena = new Xmas(){  
+            void speak(){System.out.println("Chocomelomakarona for ever!!");}  
+        };  
+        Elena.speak();  
 
 // >>>>>>>>>>>>> 11 >>>>>>>>>>>>>        
         
